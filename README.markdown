@@ -3,8 +3,12 @@
 A **TextMate Bundle** / **Sublime Text 2 Package** for the **CoffeeScript** programming language.
 
 Forked to highlight `await` and `defer` keywords used by [IcedCoffeeScript](http://maxtaco.github.com/coffee-script/).
-    
+
 ## Installation in Sublime Text 2
+
+Simply install the IcedCoffeeScript package via Package Manager.
+
+## Manual installation in Sublime Text 2
 
 To replace your existing CoffeeScript package, use `Package Control: Remove Package` to remove your old **CoffeeScript** Package first. This step is optional, you can of course use both packages, but you'll have to manually select **Iced Coffee** for files containing the additional keywords.
 
